@@ -33,7 +33,7 @@
 - Resource Monitoring
   ![Resource Monitoring](./quicklabs/ebb.png)
 - Error Reporting and Debugging
-  ![Error Reporting and Debugging](./quicklabs/ebb.png)
+  ![Error Reporting and Debugging](./quicklabs/erd.png)
   
 
 ## Course: Elastic Google Cloud Infrastructure: Scaling and Automation
